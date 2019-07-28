@@ -1,0 +1,4 @@
+#Mon Jul 22 13:54:31 PKT 2019
+base.0=D\:\\AppDev\\android-vision\\visionSamples\\barcode-reader\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+path.0=classes.dex
+renamed.0=classes.dex
