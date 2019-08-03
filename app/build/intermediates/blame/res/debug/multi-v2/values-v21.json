@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\AppDev\\android-vision\\visionSamples\\barcode-reader\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v21\\values-v21.xml",
+            "outputFile": "D:\\AppDev\\BarcodeScanner-GoogleVision\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v21\\values-v21.xml",
             "map": [
                 {
                     "source": "C:\\Users\\emine\\.gradle\\caches\\transforms-2\\files-2.1\\d551fd466e20882a99a1f423aaf9274d\\res\\values-v21\\values-v21.xml",

@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\AppDev\\android-vision\\visionSamples\\barcode-reader\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "outputFile": "D:\\AppDev\\BarcodeScanner-GoogleVision\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
             "map": [
                 {
                     "source": "C:\\Users\\emine\\.gradle\\caches\\transforms-2\\files-2.1\\0e51ff67838456a5fa5c0334ecc73e41\\res\\values\\values.xml",
@@ -57,7 +57,7 @@
                     }
                 },
                 {
-                    "source": "D:\\AppDev\\android-vision\\visionSamples\\barcode-reader\\app\\src\\main\\res\\values\\dimens.xml",
+                    "source": "D:\\AppDev\\BarcodeScanner-GoogleVision\\app\\src\\main\\res\\values\\dimens.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "4,4",
@@ -71,23 +71,6 @@
                         "startOffsets": "11701,11759",
                         "endColumns": "57,55",
                         "endOffsets": "11754,11810"
-                    }
-                },
-                {
-                    "source": "D:\\AppDev\\android-vision\\visionSamples\\barcode-reader\\app\\src\\main\\res\\values\\strings.xml",
-                    "from": {
-                        "startLines": "9,13,12,7,11,5,4,2,3,8,6,10",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "692,928,863,544,792,352,194,57,92,637,473,743",
-                        "endColumns": "49,71,63,91,69,119,156,33,100,53,69,47",
-                        "endOffsets": "737,995,922,631,857,467,346,86,188,686,538,786"
-                    },
-                    "to": {
-                        "startLines": "267,268,269,270,271,294,295,296,297,298,301,302",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "18329,18379,18451,18515,18597,21640,21760,21917,21951,22052,22230,22300",
-                        "endColumns": "49,71,63,81,69,119,156,33,100,53,69,47",
-                        "endOffsets": "18374,18446,18510,18592,18662,21755,21912,21946,22047,22101,22295,22343"
                     }
                 },
                 {
@@ -124,6 +107,23 @@
                         "startOffsets": "14430,14505,14581,15144,143214",
                         "endColumns": "74,75,71,65,316",
                         "endOffsets": "14500,14576,14648,15205,143526"
+                    }
+                },
+                {
+                    "source": "D:\\AppDev\\BarcodeScanner-GoogleVision\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "9,13,12,7,11,5,4,2,3,8,6,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "692,928,863,544,792,352,194,57,92,637,473,743",
+                        "endColumns": "49,71,63,91,69,119,156,33,100,53,69,47",
+                        "endOffsets": "737,995,922,631,857,467,346,86,188,686,538,786"
+                    },
+                    "to": {
+                        "startLines": "267,268,269,270,271,294,295,296,297,298,301,302",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "18329,18379,18451,18515,18597,21640,21760,21917,21951,22052,22230,22300",
+                        "endColumns": "49,71,63,81,69,119,156,33,100,53,69,47",
+                        "endOffsets": "18374,18446,18510,18592,18662,21755,21912,21946,22047,22101,22295,22343"
                     }
                 }
             ]

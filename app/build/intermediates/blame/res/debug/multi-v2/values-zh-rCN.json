@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\AppDev\\android-vision\\visionSamples\\barcode-reader\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-zh-rCN\\values-zh-rCN.xml",
+            "outputFile": "D:\\AppDev\\BarcodeScanner-GoogleVision\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-zh-rCN\\values-zh-rCN.xml",
             "map": [
                 {
                     "source": "C:\\Users\\emine\\.gradle\\caches\\transforms-2\\files-2.1\\664269a903137129a8130aa530ff7a2c\\res\\values-zh-rCN\\values.xml",
