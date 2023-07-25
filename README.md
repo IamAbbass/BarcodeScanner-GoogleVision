@@ -6,14 +6,6 @@ Key Features:
 
 Effortless Barcode Scanning: Say goodbye to manual data entry and tedious searching. With BarcodeScanner-GoogleVision, simply point your device's camera at any barcode, and the app will quickly scan and decode it. Experience the convenience of instant results at your fingertips!
 
-Comprehensive Product Information: Get detailed information about scanned products in real-time. From product names, descriptions, and prices to customer reviews and ratings, our app provides a comprehensive overview of the items you scan.
-
-Price Comparison Made Easy: Never miss a deal again! BarcodeScanner-GoogleVision allows you to compare prices of scanned products across various online retailers. Save money by making informed purchasing decisions right from within the app.
-
-Create Personalized Shopping Lists: Planning your next shopping trip? BarcodeScanner-GoogleVision lets you create and manage personalized shopping lists. Scan items and add them to your list effortlessly, ensuring you never forget anything when you hit the stores.
-
-History and Favorites: Keep track of your scanning history for quick reference. Mark items as favorites to access them later, making repeat purchases or recommendations a breeze.
-
 User-Friendly Interface: Our app boasts a clean and intuitive interface, making it easy for users of all ages to navigate and utilize its powerful features.
 
 Privacy and Security: We take your privacy seriously. BarcodeScanner-GoogleVision does not store any scanned data, ensuring that your personal information and scanned results remain safe and secure.
